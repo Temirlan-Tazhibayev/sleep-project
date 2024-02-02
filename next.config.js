@@ -22,12 +22,6 @@ const nextConfig = {
     *
     * @see https://nextjs.org/docs/app/api-reference/components/image#unoptimized
     */
-  //  images: {
-  //    unoptimized: true,
-  //  },
-
-
-  assetPrefix: './',
   i18n,
   reactStrictMode: true,
   transpilePackages: ['@mui/x-charts'],
