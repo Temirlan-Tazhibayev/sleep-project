@@ -25,6 +25,7 @@ const nextConfig = {
   i18n,
   reactStrictMode: true,
   transpilePackages: ['@mui/x-charts'],
+  output: "export",
   
 };
 
