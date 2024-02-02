@@ -27,10 +27,6 @@ const nextConfig = {
   //  },
 
 
-  images: {
-    loader: 'akamai',
-    path: '',
-  },
   assetPrefix: './',
   i18n,
   reactStrictMode: true,
